@@ -36,7 +36,7 @@ def writeWriteupFrontMatter(challName, descUrl, points, solves, tags, comments):
     )
     file = open(writeupFileName, 'w+')
     file.write(ctfWriteupTemplate.format(
-        ctfName, 
+        ctfName.replace(" ", "-"), 
         descUrl, 
         points, 
         solves, 
