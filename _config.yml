@@ -1,25 +1,25 @@
 remote_theme: CaptainIRS/hacker-plus-theme
 
-title:
-author:
-description: 
-disqus_forum_shortname:
+title: CaptainIRS
+author: Rinish Sam
+description: Personal site and Hackerblog of CaptainIRS
+disqus_forum_shortname: captainirs-github-io
 google_site_verification_content: mihn2QRzLfjm9AiHJFsco5EW-EiTIP17fueADOlFmj4
-google_analytics: # Your Google Analytics Tracking ID
+google_analytics: UA-173533812-1
 
 # Usernames and badges
 htb_badge_no: # Go to the HackTheBox site and copy your ID
 thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
 show_thm_htb_badges_in_nav: false
-github_username: 
+github_username: CaptainIRS
 gitlab:
 medium:
-stackoverflow:
+stackoverflow: CaptainIRS
 hacker_news:
-linkedin:
+linkedin: rinish-sam
 twitch:
 youtube:
-twitter: 
+twitter: CaptainIRS
 facebook:
 instagram:
 reddit:
