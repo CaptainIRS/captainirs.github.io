@@ -48,7 +48,5 @@ collections:
       output: true
    solutions:
       output: true
-   dev:
-      output: true
    blog:
       output: true
