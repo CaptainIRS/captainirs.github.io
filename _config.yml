@@ -10,7 +10,7 @@ google_analytics: UA-173533812-1
 # Usernames and badges
 htb_badge_no: 303582 # Go to the HackTheBox site and copy your ID
 thm_badge_no: 56356 # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
-show_thm_htb_badges_in_nav: true
+show_thm_htb_badges_in_nav: false
 github_username: CaptainIRS
 gitlab:
 medium:
