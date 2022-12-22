@@ -26,6 +26,7 @@ reddit:
 pinterest:
 telegram:
 steam:
+mastodon: https://fosstodon.org/@CaptainIRS
 
 # -------DO NOT ALTER -------#
 markdown: kramdown
