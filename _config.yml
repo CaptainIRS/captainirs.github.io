@@ -51,4 +51,4 @@ collections:
    solutions:
       output: true
    blog:
-      output: true
+      output: false
