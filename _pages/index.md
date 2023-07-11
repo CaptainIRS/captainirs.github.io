@@ -4,4 +4,4 @@ layout: default
 
 # Hi there!
 
-I'm @CaptainIRS, sailing across the raging seas...
+Welcome to the @CaptainIRS writeup blog! Checkout the latest writeups [here](/writeups).
